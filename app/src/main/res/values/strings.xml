@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Stoller</string>
+    <string name="key_name">name</string>
+    <string name="signals_from_mars">Signals From Mars</string>
+</resources>
